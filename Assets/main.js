@@ -12,7 +12,7 @@ if (navToggle)
 {
     navToggle.addEventListener('click', () =>
     {
-        navMenu.classList.add('show-menu')
+        navMenu.classList.add('show-menu')//directamente interactua con el css
     })
 }
 if (navClose)
