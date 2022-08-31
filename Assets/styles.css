@@ -572,6 +572,7 @@ img {
   transform: translate(6px, -7px);
 }
 
+/* tiene que haber un espacio entre qualifiaction y [data-content] */
 .qualification [data-content] {
   display: none;
 }
